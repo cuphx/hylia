@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "name": "Rubedo Works",
+  "shortDesc": "Personal and business management, virtual assisting and bookkeeping for pagans and the magically inclined. We handle the little work so you can tackle your Great Work.",
+  "url": "https://rubedo.work",
+  "authorEmail": "jack@rubedo.work",
+  "authorHandle": "",
+  "authorName": "C Jackdaw",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
